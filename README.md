@@ -24,8 +24,4 @@
 
 - The system uses the first detected face encoding per image; if multiple faces exist in one photo, it only encodes the first.
 - Accuracy depends on lighting and webcam quality.
-
-## ✍️ Author
-
-Grace Giebel  
-Python Face Recognition Project — 2025  
+ 
